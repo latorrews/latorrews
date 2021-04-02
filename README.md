@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything you need. You can reach me out whenever you need help!**
 
-- 📫 How to reach me **javierprotmr@gmail.com**
+- 📫 How to reach me out: **javierprotmr@gmail.com**
 
 - ⚡ Fun fact **I'm also a gamer! If you want to play with me, reach me out.**
 
