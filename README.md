@@ -9,7 +9,7 @@
 
 - 📫 How to reach me out: **javierprotmr@gmail.com**
 
-- ⚡ Fun fact **I'm also a gamer! If you want to play with me, reach me out.**
+- ⚡ Fun fact: **I'm also a gamer! If you want to play with me, reach me out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
