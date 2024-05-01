@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Javier.</h1>
 <h3 align="center">I'm a young developer, UI/UX designer and tech enthusiast from Spain.</h3>
 
-<p align="left"> <a href="https://twitter.com/latorrews" target="blank"><img src="https://img.shields.io/twitter/follow/latorrews?logo=twitter&style=for-the-badge" alt="latorrews" /></a> </p>
-
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Swift**.
 
 - 💬 Ask me about **anything you need. You can reach me out whenever you need help!**
 
-- 📫 How to reach me out: **javier@latorrews.com**
+- 📫 How to reach me out: **javier@krutt.org**
 
 - ⚡ Fun fact: **I'm also a gamer! If you want to play with me, reach me out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/latorrews" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="latorrews" height="30" width="40" /></a>
-<a href="https://instagram.com/latorrews" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="latorrews" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
